@@ -145,7 +145,6 @@ jupyter>=1.0
 - [ ] Feature engineering sobre el historial mensual de pagos
 - [ ] Aplicar estrategias de encoding para variables de alta cardinalidad
 - [ ] Usar modelos no lineales (árbol de decisión, Random Forest) para capturar relaciones complejas
-- [ ] → Proyecto 02: [Credit Risk Score Model](../credit-risk-score)
 
 ---
 
