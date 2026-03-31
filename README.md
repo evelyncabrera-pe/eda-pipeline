@@ -37,9 +37,7 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) aplicado a un da
 
 ## Pipeline del análisis
 
-```
 ![Pipeline completo](images/pipeline_completo.png)
-```
 
 ---
 
